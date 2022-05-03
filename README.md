@@ -1,15 +1,44 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**mhenrixon/mhenrixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Mikael Henriksson, my username everywhere is mhenrixon but my friends call me Mika.
 
-Here are some ideas to get you started:
--->
+<!-- MarkdownTOC -->
 
-- 🔭 I’m currently working on bridging the gap between sellers and buyers
-- 🌱 I’m currently learning TailwindCSS, Stimulus.js and frontend
-- 🤔 I’m looking for help with sidekiq-unique-jobs and active_campaign
-- 💬 Ask me about Ruby, Ruby on Rails, Personal Development
-- 📫 How to reach me: mikael@mhenrixon.com
-- 😄 Pronouns: Mika
-- ⚡ Fun fact: I am a musician, can't wait to share my music with the world!
+- [Bio](#bio)
+- [Skills](#skills)
+- [Projects](#projects)
+  - [Pitchfish](#pitchfish)
+  - [Portfolio](#portfolio)
+  - [Sidekiq Unique Jobs](#sidekiq-unique-jobs)
+
+<!-- /MarkdownTOC -->
+
+## Bio
+
+- 📚 Fullstack Developer
+- ✏️ Professional Software Deleter
+- 🎸 Passionate Musician
+- 💻 Code slinger
+- 👧 Father
+- 🐕 Owner
+
+## Skills
+
+- **Languages:** Ruby, Lua, JavaScript, HTML, CSS, SQL, pSQL, ShellScript (bash, fish)
+- **Frameworks:** Ruby on Rails, RSpec, Sidekiq, Hotwired, Turbo, PostgreSQL, StimulusJS, TailwindCSS
+- **Databases:** Redis, PostgreSQL, MySQL, MariaDB 
+- **Technologies:** Docker, git, GitHub, Heroku, Terminal, Continuous Integration
+
+## Projects
+
+### Pitchfish
+
+- [pitchfish.com](https://www.pitchfish.com) - Bridging the gap between sellers and buyers and cuts through the noise.
+
+### Portfolio
+
+- [mhenrixon.com](https://mhenrixon.com) - Portfolio website show casing what I can do as a full stack developer
+
+### Sidekiq Unique Jobs
+
+- [sidekiq-unique-jobs](https://github.com/mhenrixon/sidekiq-unique-jobs) - Prevents duplicate sidekiq jobs 
