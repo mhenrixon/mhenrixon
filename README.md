@@ -31,7 +31,7 @@ I am Mikael Henriksson, my username everywhere is mhenrixon but my friends call 
 
 ## Stats
 
-![mhenrixon's GitHub stats](https://mhenrixon-readme-stats.vercel.app/api?username=mhenrixon&count_private=true&show_icons=true)
+![mhenrixon's GitHub stats](https://mhenrixon-readme-stats.vercel.app/api?username=mhenrixon&count_private=true&show_icons=true&theme=nightowl)
 
 
 ## Projects
