@@ -29,6 +29,11 @@ I am Mikael Henriksson, my username everywhere is mhenrixon but my friends call 
 - **Databases:** Redis, PostgreSQL, MySQL, MariaDB 
 - **Technologies:** Docker, git, GitHub, Heroku, Terminal, Continuous Integration
 
+## Stats
+
+![mhenrixon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhenrixon&count_private=true&show_icons=true)
+
+
 ## Projects
 
 ### Pitchfish
